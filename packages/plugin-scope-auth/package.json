@@ -54,14 +54,14 @@
     "graphql": ">=15.1.0"
   },
   "devDependencies": {
-    "@pothos/core": "workspace:*",
-    "@pothos/plugin-prisma": "workspace:*",
-    "@pothos/plugin-relay": "workspace:*",
-    "@pothos/test-utils": "workspace:*",
-    "@prisma/client": "^4.5.0",
+    "@pothos/core": "workspace:3.22.9",
+    "@pothos/plugin-prisma": "workspace:3.35.8",
+    "@pothos/plugin-relay": "workspace:3.28.7",
+    "@pothos/test-utils": "workspace:1.4.7",
+    "@prisma/client": "^4.6.1",
     "graphql": "16.6.0",
     "graphql-tag": "^2.12.6",
-    "prisma": "^4.5.0"
+    "prisma": "^4.6.1"
   },
   "gitHead": "9dfe52f1975f41a111e01bf96a20033a914e2acc"
 }

@@ -15,16 +15,16 @@
   },
   "dependencies": {
     "@apollo/gateway": "2.1.4",
-    "@apollo/server": "^4.0.4",
+    "@apollo/server": "^4.2.1",
     "@apollo/subgraph": "2.1.4",
     "@faker-js/faker": "^7.6.0",
-    "@pothos/core": "workspace:*",
-    "@pothos/plugin-directives": "workspace:*",
-    "@pothos/plugin-federation": "workspace:*",
-    "@pothos/plugin-prisma": "workspace:*",
-    "@prisma/client": "^4.5.0",
+    "@pothos/core": "workspace:3.22.9",
+    "@pothos/plugin-directives": "workspace:3.8.4",
+    "@pothos/plugin-federation": "workspace:3.6.4",
+    "@pothos/plugin-prisma": "workspace:3.35.8",
+    "@prisma/client": "^4.6.1",
     "graphql": "16.6.0",
-    "prisma": "^4.5.0"
+    "prisma": "^4.6.1"
   },
   "publishConfig": {
     "access": "public"

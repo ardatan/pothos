@@ -42,10 +42,10 @@
     "graphql": ">=15.1.0"
   },
   "devDependencies": {
-    "@pothos/core": "workspace:*",
-    "@pothos/plugin-errors": "workspace:*",
-    "@pothos/plugin-relay": "workspace:*",
-    "@pothos/test-utils": "workspace:*",
+    "@pothos/core": "workspace:3.22.9",
+    "@pothos/plugin-errors": "workspace:3.8.7",
+    "@pothos/plugin-relay": "workspace:3.28.7",
+    "@pothos/test-utils": "workspace:1.4.7",
     "dataloader": "^2.1.0",
     "graphql": "16.6.0",
     "graphql-tag": "^2.12.6"
